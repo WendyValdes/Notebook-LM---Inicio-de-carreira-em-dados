@@ -33,7 +33,10 @@ Python	Processamento e análise de dados
 SQL	Consulta e manipulação de dados
 Power BI	Visualização de dados
 NotebookLM	Organização do conhecimento com IA
+
 ⚙️ Arquitetura da Stack de Dados
+
+<img width="2009" height="200" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/3f52d60e-1844-418e-9d09-1661ef1d3257" />
 
 Esse fluxo representa um pipeline típico de análise de dados utilizado por analistas.
 
